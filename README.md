@@ -23,7 +23,7 @@
 
 Personal Blog API is a RESTful API solution that allows you to manage your personal blog content.  
 You can create, update, delete, and list your blog posts.  
-The project uses Node.js, Express, and Prisma ORM.
+The project uses Node.js, **Fastify**, and Prisma ORM.
 
 ---
 
@@ -83,22 +83,9 @@ The API works with standard REST endpoints:
 ## Technologies
 
 - [Node.js](https://nodejs.org/)  
-- [Express](https://expressjs.com/)  
+- [Fastify](https://www.fastify.io/)  
 - [Prisma ORM](https://www.prisma.io/)  
 - [PostgreSQL](https://www.postgresql.org/)  
-
----
-
-## Contributing
-
-Contributions are welcome!  
-Feel free to fork the repo and submit pull requests.
-
-1. Fork the Project  
-2. Create your Feature Branch (`git checkout -b feature/your-feature`)  
-3. Commit your Changes (`git commit -m 'Add some feature'`)  
-4. Push to the Branch (`git push origin feature/your-feature`)  
-5. Open a Pull Request
 
 ---
 
