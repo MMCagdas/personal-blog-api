@@ -66,7 +66,7 @@ The API works with standard REST endpoints:
 | GET    | `/posts`           | List all posts         |
 | GET    | `/posts/:id`       | Get a single post       |
 | POST   | `/posts`           | Create a new post       |
-| PUT    | `/posts/:id`       | Update an existing post |
+| PATCH  | `/posts/:id`       | Update an existing post |
 | DELETE | `/posts/:id`       | Delete a post           |
 
 ---
