@@ -112,8 +112,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 To follow my work or get in touch:  
 - GitHub: [https://github.com/MMCagdas](https://github.com/MMCagdas)  
-- Email: exampleemail@example.com
-
----
-
-> This README file can be updated as the project evolves. You can also add Swagger documentation or testing instructions later.
